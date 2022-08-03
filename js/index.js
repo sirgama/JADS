@@ -65,3 +65,8 @@ const quotient2 = 4.4 / 2.0;
 //Finding a Remainder in JavaScript
 const remainder = 11 % 3;
 console.log(remainder)
+
+//Compound Assignment With Augmented Addition
+let myVarr = 1;
+myVarr += 5;
+console.log(myVarr);
