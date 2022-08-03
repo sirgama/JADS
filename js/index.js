@@ -99,3 +99,7 @@ console.log(myyStr)
 
 //Concatenating Strings with Plus Operator
 const myString = "This is the start " + "This is the end";
+
+//Concatenating Strings with the Plus Equals Operator
+let myStre = 'This is the first sentence.';
+myStre += 'This is the second sentence.';
