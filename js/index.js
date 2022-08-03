@@ -61,3 +61,7 @@ const products = 2.0 * 2.5;
 
 //Divide One Decimal by Another with JavaScript
 const quotient2 = 4.4 / 2.0; 
+
+//Finding a Remainder in JavaScript
+const remainder = 11 % 3;
+console.log(remainder)
