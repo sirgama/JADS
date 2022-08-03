@@ -79,3 +79,8 @@ console.log(myVarr);
 
 myVarr *= 5;
 console.log(myVarr);
+
+//Compound Assignment With Augmented Division
+
+myVarr /= 5;
+console.log(myVarr);
