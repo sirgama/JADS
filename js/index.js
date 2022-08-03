@@ -40,3 +40,6 @@ console.log(catName, difference,sum)
 
 //Multiply Two Numbers with JavaScript
 const product = 8 * 10;
+
+//Divide One Number by Another with JavaScript
+const quotient = 66 / 33;
