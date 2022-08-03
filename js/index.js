@@ -96,3 +96,6 @@ console.log(myStrr)
 //Escape Sequences in Strings
 const myyStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
 console.log(myyStr)
+
+//Concatenating Strings with Plus Operator
+const myString = "This is the start " + "This is the end";
