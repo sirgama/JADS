@@ -70,3 +70,8 @@ console.log(remainder)
 let myVarr = 1;
 myVarr += 5;
 console.log(myVarr);
+
+//Compound Assignment With Augmented Subtraction
+
+myVarr -= 5;
+console.log(myVarr);
