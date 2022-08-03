@@ -84,3 +84,6 @@ console.log(myVarr);
 
 myVarr /= 5;
 console.log(myVarr);
+//Escaping Literal Quotes in Strings
+const myStr = "I am a  \"double quoted\" string inside \"double quotes\".";
+console.log(myStr)
