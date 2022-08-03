@@ -75,3 +75,7 @@ console.log(myVarr);
 
 myVarr -= 5;
 console.log(myVarr);
+//Compound Assignment With Augmented Multiplication
+
+myVarr *= 5;
+console.log(myVarr);
