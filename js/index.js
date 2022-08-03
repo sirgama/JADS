@@ -52,3 +52,9 @@ myVar ++;
 let myVar2 = 11;
 myVar2--;
 console.log(myVar, myVar2)
+
+//Create Decimal Numbers with JavaScript
+const ourDecimal = 5.7;
+var myDecimal = 4.2;
+//Multiply Two Decimals with JavaScript
+const products = 2.0 * 2.5;
