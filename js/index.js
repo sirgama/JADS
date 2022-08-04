@@ -185,3 +185,11 @@ const ara = [
 
 let data = ara[1][3]
 console.log(data)
+
+//Manipulate Arrays With push()
+const arr1 = [1, 2, 3];
+arr1.push(4);
+
+const arr2 = ["Stimpson", "J", "cat"];
+arr2.push(["happy", "joy"]);
+console.log(arr2)
