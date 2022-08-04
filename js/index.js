@@ -142,3 +142,14 @@ const laatName = "Lovelace";
 // Only change code below this line
 const lastLetterOfLastName = laatName[laatName.length - 1];
 console.log(lastLetterOfLastName)
+
+//Word Blanks
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+const wordBlanks = "This " + myAdjective + " fat " + myNoun + " yesterday " + myVerb + " " + myAdverb + " quickly towards me.";
+
+console.log(wordBlanks)
