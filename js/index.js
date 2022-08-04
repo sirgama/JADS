@@ -126,3 +126,8 @@ const lastNamee = "Lovelace";
 
 // Only change code below this line
 firstLetterOfLastName = lastNamee[0]; 
+//Understand String Immutability
+let myStrty = "Jello World";
+
+// Only change code below this line
+myStrty = "Hello World"; 
