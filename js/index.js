@@ -175,3 +175,13 @@ console.log(mstr1, arra1)
 const ourArray = [50, 40, 30];
 ourArray[0] = 15;
 console.log(ourArray)
+
+//Access Multi-Dimensional Arrays With Indexes
+const ara = [
+    [1,2,3,4],
+    [5,6,7,8],
+    [[12,14,15], [16,17,18]]
+];
+
+let data = ara[1][3]
+console.log(data)
