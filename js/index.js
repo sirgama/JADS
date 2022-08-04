@@ -119,3 +119,10 @@ console.log(mySter += someAdjective)
 let lastNameLength = 0;
 const lastName = "Lovelace";
 lastNameLength = lastName.length;
+
+//Use Bracket Notation to Find the First Character in a String
+let firstLetterOfLastName = "";
+const lastNamee = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastNamee[0]; 
