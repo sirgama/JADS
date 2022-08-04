@@ -131,3 +131,7 @@ let myStrty = "Jello World";
 
 // Only change code below this line
 myStrty = "Hello World"; 
+
+//Use Bracket Notation to Find the Nth Character in a String
+const lastNaamee = "Lovelace";
+ThirdLetterOfLastName = lastNaamee[2]; 
