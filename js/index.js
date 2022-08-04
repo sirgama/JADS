@@ -114,3 +114,8 @@ const someAdjective = "tress";
 let mySter = "Learning to code is ";
 
 console.log(mySter += someAdjective)
+
+//Find the Length of a String
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
