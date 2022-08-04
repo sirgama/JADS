@@ -108,3 +108,9 @@ myStre += 'This is the second sentence.';
 const myName = "Gamaliel S ";
 const myStrt = "My name is " + myName;
 console.log(myStrt)
+
+//Appending Variables to Strings
+const someAdjective = "tress";
+let mySter = "Learning to code is ";
+
+console.log(mySter += someAdjective)
