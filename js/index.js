@@ -153,3 +153,7 @@ const myAdverb = "quickly";
 const wordBlanks = "This " + myAdjective + " fat " + myNoun + " yesterday " + myVerb + " " + myAdverb + " quickly towards me.";
 
 console.log(wordBlanks)
+
+//Store Multiple Values in one Variable using JavaScript Arrays
+
+const myArray = ["hey", 1];
