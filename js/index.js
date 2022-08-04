@@ -132,6 +132,13 @@ let myStrty = "Jello World";
 // Only change code below this line
 myStrty = "Hello World"; 
 
-//Use Bracket Notation to Find the Nth Character in a String
-const lastNaamee = "Lovelace";
-ThirdLetterOfLastName = lastNaamee[2]; 
+// //Use Bracket Notation to Find the Nth Character in a String
+// const lastNaamee = "Lovelace";
+// ThirdLetterOfLastName = lastNaamee[2]; 
+
+//Use Bracket Notation to Find the Last Character in a String
+const laatName = "Lovelace";
+
+// Only change code below this line
+const lastLetterOfLastName = laatName[laatName.length - 1];
+console.log(lastLetterOfLastName)
