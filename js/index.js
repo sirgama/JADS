@@ -157,3 +157,6 @@ console.log(wordBlanks)
 //Store Multiple Values in one Variable using JavaScript Arrays
 
 const myArray = ["hey", 1];
+//Nest one Array within Another Array
+myNestedArray = [["my", 3], ["my", 2], ["my nested", 1]];
+console.log(myNestedArray)
