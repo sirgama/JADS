@@ -160,3 +160,12 @@ const myArray = ["hey", 1];
 //Nest one Array within Another Array
 myNestedArray = [["my", 3], ["my", 2], ["my nested", 1]];
 console.log(myNestedArray)
+
+//Access Array Data with Indexes
+
+const mstr = 'Technically';
+const arra = [11,12,23,345,56];
+
+let mstr1 = mstr[3]
+let arra1 = arra[3]
+console.log(mstr1, arra1)
